@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		121945122A27223700A9EF0C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121945112A27223700A9EF0C /* HomeView.swift */; };
 		12AA23562A271578005B47C4 /* GroupworkApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AA23552A271578005B47C4 /* GroupworkApp.swift */; };
 		12AA23582A271578005B47C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AA23572A271578005B47C4 /* ContentView.swift */; };
 		12AA235A2A27157A005B47C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12AA23592A27157A005B47C4 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		121945112A27223700A9EF0C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		12AA23522A271578005B47C4 /* Groupwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Groupwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12AA23552A271578005B47C4 /* GroupworkApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupworkApp.swift; sourceTree = "<group>"; };
 		12AA23572A271578005B47C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				12AA23552A271578005B47C4 /* GroupworkApp.swift */,
 				12AA23572A271578005B47C4 /* ContentView.swift */,
+				121945112A27223700A9EF0C /* HomeView.swift */,
 				12AA23632A27160C005B47C4 /* ClaireView.swift */,
 				12AA23652A271614005B47C4 /* IsabelView.swift */,
 				12AA23592A27157A005B47C4 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				12AA23642A27160C005B47C4 /* ClaireView.swift in Sources */,
 				12AA23582A271578005B47C4 /* ContentView.swift in Sources */,
 				12AA23662A271614005B47C4 /* IsabelView.swift in Sources */,
+				121945122A27223700A9EF0C /* HomeView.swift in Sources */,
 				12AA23562A271578005B47C4 /* GroupworkApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
