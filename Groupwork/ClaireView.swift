@@ -36,7 +36,7 @@ struct ClaireView: View {
                             Text("Food.")
                             
                         }
-                            .font(.system(size:19))
+                            .font(.system(size:18))
                         HStack{
                         Text("Spotify:")
                             Link(destination:URL(string:"https://open.spotify.com/user/w8v41wn1x0fxbtcozw7l2yivy?si=c78efed8b6ce448d")!) {
