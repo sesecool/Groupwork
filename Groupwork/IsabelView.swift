@@ -19,6 +19,7 @@ struct IsabelView: View {
                         //.overlay(Ellipse().stroke(Color.primary, lineWidth: 10))
                             .mask(Image(systemName: "placeholdertext.fill")
                                 .resizable())
+                            .offset(y: 40)
                         VStack(spacing: 30){
                             Text("Isabel")
                                 .bold()
